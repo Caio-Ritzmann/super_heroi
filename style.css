@@ -1,7 +1,7 @@
 body {
     background-color: black;
     color: white;
-background-image: url(assets/pantera\ negra4.jpg);
+background-image: url(assets/pantera\ negra\ 9.jpg);
 background-repeat: no-repeat;
 background-size: cover;
 }
@@ -18,13 +18,22 @@ h1 {
     padding: 20px;
     background-color: rgb(255, 255, 255);
     color: rgb(0, 0, 0);
+    font-size: 70px;
 }
-
+h3{
+    font-size: 40px;
+}
 footer p {
     color: rgb(255, 255, 255);
 }
 
 header {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+div {
     display: flex;
     align-items: center;
     justify-content: center;
