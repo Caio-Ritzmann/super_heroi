@@ -14,7 +14,7 @@ img {
 }
 
 h1 {
-   
+
     letter-spacing: 0.1px;
     padding: 20px;
     background-color: rgb(0, 0, 0);
@@ -40,4 +40,11 @@ div {
     display: flex;
     align-items: center;
     justify-content: center;
+}
+
+#logo {
+    height: 100px;
+    border: 0px solid rgb(0, 0, 0);
+    border-radius: 20px;
+    width: 200px;
 }
